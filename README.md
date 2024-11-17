@@ -9,4 +9,4 @@ I'm a passionate developer interested in open-source projects and innovative tec
 - Java  
 
 🔗 **Links**  
-[Portfolio](https://yourportfolio.com) | [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[youtube](https://youtube.com/channel/UCiUE5jm-5JfXITM0T5Fao3A?si=2ToWEG6-uHsDVIOi) | [blog](https://blog.panda99.us.kg/) 
