@@ -1,12 +1,17 @@
-# 欢迎大家来到我的github，我是潘达久久!
+ 
+你好！我是潘达久久。  
+研究好工具，解锁新神器，探索背后的技术原理。
+分享给你，成就于我。
 
-🌟 **About Me**  
-I'm a passionate developer interested in open-source projects and innovative technology.  
+---
 
-💻 **Tech Stack**  
-- Python  
-- JavaScript  
-- Java  
+# 联系我
 
-🔗 **Links**  
-[youtube](https://youtube.com/channel/UCiUE5jm-5JfXITM0T5Fao3A?si=2ToWEG6-uHsDVIOi) | [blog](https://blog.panda99.us.kg/) 
+欢迎通过以下方式联系我：
+
+- **YouTube**: [点击访问](https://youtube.com/channel/UCiUE5jm-5JfXITM0T5Fao3A?si=mSpdzphvhl7cKpJE)  
+- **GitHub**: [点击访问](https://github.com/panda99-andy)
+- **Blog**: [点击访问](https://blog.panda99.us.kg/) 
+- **Email**: pan6419@gmail.com 
+
+无论是讨论技术，还是分享心得，都欢迎随时交流！
