@@ -12,6 +12,6 @@
 - **YouTube**: [点击访问](https://youtube.com/channel/UCiUE5jm-5JfXITM0T5Fao3A?si=mSpdzphvhl7cKpJE)  
 - **GitHub**: [点击访问](https://github.com/panda99-andy)
 - **Blog**: [点击访问](https://blog.panda99.us.kg/) 
-- **Email**: pan6419@gmail.com 
+- **Email**: panda99.me@gmail.com
 
 无论是讨论技术，还是分享心得，都欢迎随时交流！
